@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nicolasdorey
+- 👀 I’m interested in CGI, Photography and coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on 3D Animation project
+- 📫 France - nd.nicolasdorey@gmail.com - https://nicolasdorey.com/
